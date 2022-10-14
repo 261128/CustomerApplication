@@ -6,5 +6,7 @@
 <body>
 <b>Registration Number</bd>
 <b>Company Name</b>
+<b>Customer Name</b>
+<b>Customer Salary</b>
 </body>
 </html>
